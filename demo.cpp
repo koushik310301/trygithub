@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"1";
+    cout<<"changing in git repo";
     return 0;
 }
